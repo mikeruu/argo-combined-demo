@@ -16,7 +16,7 @@ spec:
         server: 
           ingress:
             hosts:
-              - acme.com
+              - argo-workflows.bowie.cicloinfinito.com
             enabled: true
             ingressClassName: nginx
         controller:
